@@ -2,6 +2,7 @@
 
 * Студент: [NattyN](https://up.htmlacademy.ru/htmlcss/39/user/1343547).
 * Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
+* Сайт: [Мой учебный проект Седона](https://iAgave.github.io/1343547-sedona-39/).
 
 ---
 
