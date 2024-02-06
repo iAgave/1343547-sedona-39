@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [NattyN](https://up.htmlacademy.ru/htmlcss/39/user/1343547).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
